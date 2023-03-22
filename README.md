@@ -1,1 +1,5 @@
-# Household-Consumption-Patterns
+# Abstract
+
+The purpose of this study is to find consumption patterns that reflect the diversity of households and to understand their factors. Under the assumption that consumption patterns will be classified according to the proportion of consumption by item, households were clustered based on the proportion of 12 consumption items in the household trends survey data from Statistics Korea. The N2D model, which has a simple model structure and high applicability, was used as the clustering method to capture nonlinear relationships in high-dimensional data.
+
+The main research results are as follows. First, household consumption was classified into 9 types with the best performance in clustering. The discovered consumption patterns were transportation-centered, education-centered, leisure (culture)-centered, leisure (travel)-centered, home-centered, composite, health-centered, food-centered, and housing-centered. Second, household income, household member age, and number of cars owned among household status variables had significant impacts on consumption patterns. Third, the discovered consumption patterns sufficiently reflected the diversity of households, which was validated through a consumption portfolio chart.
